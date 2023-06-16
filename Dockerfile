@@ -1,1 +1,1 @@
-FROM quay.io/prometheus-operator/prometheus-operator:v0.52.0
+FROM registry.k8s.io/e2e-test-images/jessie-dnsutils:1.3
